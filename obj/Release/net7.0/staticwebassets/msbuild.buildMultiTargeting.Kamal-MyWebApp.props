@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Kamal-MyWebApp.props" />
+</Project>
