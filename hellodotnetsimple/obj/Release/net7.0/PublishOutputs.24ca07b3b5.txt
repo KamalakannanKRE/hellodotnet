@@ -1,0 +1,7 @@
+C:\Users\Kamalakannan\Desktop\Kamal\kamaldot\Kamal-MyWebApp\bin\Publish\Kamal-MyWebApp.exe
+C:\Users\Kamalakannan\Desktop\Kamal\kamaldot\Kamal-MyWebApp\bin\Publish\appsettings.Development.json
+C:\Users\Kamalakannan\Desktop\Kamal\kamaldot\Kamal-MyWebApp\bin\Publish\appsettings.json
+C:\Users\Kamalakannan\Desktop\Kamal\kamaldot\Kamal-MyWebApp\bin\Publish\Kamal-MyWebApp.dll
+C:\Users\Kamalakannan\Desktop\Kamal\kamaldot\Kamal-MyWebApp\bin\Publish\Kamal-MyWebApp.deps.json
+C:\Users\Kamalakannan\Desktop\Kamal\kamaldot\Kamal-MyWebApp\bin\Publish\Kamal-MyWebApp.runtimeconfig.json
+C:\Users\Kamalakannan\Desktop\Kamal\kamaldot\Kamal-MyWebApp\bin\Publish\Kamal-MyWebApp.pdb
